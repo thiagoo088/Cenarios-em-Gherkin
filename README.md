@@ -52,7 +52,7 @@ Foram considerados:
 
 Arquivo: "configuracao.feature"
 
-🧩 Conceitos praticados
+Conceitos praticados
 - Feature / Funcionalidade
 - Contexto (Background)
 - Cenário (Scenario)
