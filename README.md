@@ -68,15 +68,6 @@ Arquivo: "configuracao.feature"
 - Regras de negócio
 - Reutilização de cenários com tabelas de exemplos
 
-📂 Estrutura do projeto
-
-gherkin-cenarios/
-│
-├── README.md
-│
-├── configuracao.feature
-├── login.feature
-└── cadastro.feature
 
 🎯 Objetivo
 O objetivo deste projeto é demonstrar minha prática na elaboração e documentação de cenários de testes funcionais utilizando Gherkin, explorando diferentes condições de entrada e comportamentos esperados do sistema.
